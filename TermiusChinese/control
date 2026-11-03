@@ -1,0 +1,9 @@
+Package: com.termius-chinese
+Name: TermiusChinese
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Description: Runtime Chinese translation for Termius iOS (display layer, full-match only; terminal and input content are not translated).
+Maintainer: Emma
+Author: Emma
+Section: Tweaks
+Depends: firmware (>= 14.0), ellekit
